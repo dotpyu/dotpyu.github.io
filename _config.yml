@@ -25,10 +25,10 @@ disqus_shortname: dotpyu
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: edc7b7 #18bc9c #80B3FF
-  primary-rgb: "237,199,183" #"24,288,156" #"128,179,255"
-  secondary: eee2dc #2c3e50 #FD6E8A
-  secondary-dark: 123c69 #233140 #A2122F
+  primary: 41b3a3 #18bc9c #80B3FF
+  primary-rgb: "65, 179, 163" #"24,288,156" #"128,179,255"
+  secondary: e8a87c #2c3e50 #FD6E8A
+  secondary-dark: e27d60 #233140 #A2122F
 
 # Footer settings
 footer:
