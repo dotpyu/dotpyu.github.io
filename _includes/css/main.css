@@ -89,10 +89,10 @@ header {
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
-    background: url(asset_path("img/pvd.jpg"));
+/*     background: url(asset_path("img/pvd.jpg"));
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
 }
 
 header img {
