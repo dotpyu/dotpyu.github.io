@@ -42,6 +42,8 @@ social:
     url: http://twitter.com/dotipynb
   - title: github
     url: http://github.com/dotpyu
+  - title: linkedin
+    url: https://www.linkedin.com/in/chungking
 
 # Postal address (add as many lines as necessary)
 address:
@@ -49,7 +51,7 @@ address:
   - line: Providence, RI
 
 # Credits content
-credits: ''
+credits: 'freelancer theme'
 
 # Build settings
 markdown: kramdown
