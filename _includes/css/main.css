@@ -64,11 +64,11 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary }};
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.primary }};
 }
 
 hr.star-primary:after {
@@ -477,7 +477,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.secondary }} !important;
 }
 
 /* Fix modal mouse wheel issues */
