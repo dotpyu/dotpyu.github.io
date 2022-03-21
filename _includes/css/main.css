@@ -3,7 +3,6 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-#element { background-pvd: url(asset_path("img/pvd.jpg")); }
 
 body {
     overflow-x: hidden;
@@ -83,16 +82,17 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    /*color: #fff;*/
-    background: background-pvd;   /*#{{ site.color.primary }};*/
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    color: #fff;
+    background: #{{ site.color.primary }};
 }
 
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
+    background: url(asset_path("img/pvd.jpg"));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 header img {
