@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cs.brown.edu/'>CS @ Brown University</a>. <a href='https://github.com/BatsResearch'>BATS Research Group</a>.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: profile-py-round.png
   address: >
     <p>CIT 351</p>
     <p>115 Waterman St</p>
@@ -17,4 +17,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
+Peilin Yu is a Ph.D. Candidate in Computer Science advised by <a href='http://stephenbach.net/'>Prof. Stephen Bach</a>.
+He investigate problems in weak supervision and beyond to make machine learning more accessible and easier to 
