@@ -70,7 +70,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Reach me!
+  Reach me at <last_name>@brown.edu!
 
 google_analytics:  G-TJTKG04D0V
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -90,7 +90,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: peilin # put your disqus shortname
+disqus_shortname: peilin-notes # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
