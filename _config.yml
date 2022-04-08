@@ -202,8 +202,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Yu
+  first_name: [Peilin]
 
   style: apa
   locale: en
@@ -244,7 +244,7 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    webp: "-quality 75%"
+    webp: "-quality 90%"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
