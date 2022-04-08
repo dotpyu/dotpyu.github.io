@@ -16,7 +16,7 @@ keywords: weak supervision, machine learning, academic-website, peilin, brown  #
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /assets/img/icons.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://dotpyu.github.io # the base hostname & protocol for your site
+url: https://yupeilin.com # the base hostname & protocol for your site
 baseurl: /peilin # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -70,7 +70,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Reach me at <last_name>@brown.edu!
+#  Reach me at <last_name>@brown.edu!
 
 google_analytics:  G-TJTKG04D0V
 google_site_verification:  # your google-site-verification ID (Google Search Console)
