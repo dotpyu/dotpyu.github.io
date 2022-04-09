@@ -18,4 +18,3 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Peilin Yu is a Ph.D. Candidate in Computer Science advised by <a href='http://stephenbach.net/'>Prof. Stephen Bach</a>.
-He investigate problems in weak supervision and beyond to make machine learning more accessible and easier to 
