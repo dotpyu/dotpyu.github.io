@@ -73,7 +73,7 @@ contact_note: >
 #  Reach me at <last_name>@brown.edu!
 
 google_analytics:  G-TJTKG04D0V
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification:  -jNI8errVIES6L6s4T0rj319zu3Y2HpLTO3gIXmRdx8
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
@@ -203,7 +203,7 @@ jekyll-archives:
 scholar:
 
   last_name: Yu
-  first_name: [Peilin]
+  first_name: [Peilin， Peilin*]
 
   style: apa
   locale: en
@@ -259,9 +259,9 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    True  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
