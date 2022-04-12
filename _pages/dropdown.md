@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: other interesting stuff
 nav: true
 dropdown: true
 children: 
-    - title: music
-      permalink: /music/
-    - title: divider
-    - title: aviation
-      permalink: /aviation/
+    # - title: music
+    #   permalink: /music/
+    # - title: divider
+    # - title: aviation
+    #   permalink: /aviation/
 ---
