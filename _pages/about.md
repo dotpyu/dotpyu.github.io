@@ -23,4 +23,4 @@ I primarily work on weak supervision problems where we explore learning with lim
 
 I am a proud <a href='https://wisc.edu'>👐🏟🧀 Badger</a> and I got my BS in CS and Math there in 2019.
 
-Email : <first_name>_<last_name> [at] brown [dot] edu
+Email : [first_name]_[last_name] [at] brown [dot] edu
