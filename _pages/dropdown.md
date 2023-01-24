@@ -1,6 +1,6 @@
 ---
 layout: page
-title: other interesting stuff
+title: other
 nav: true
 dropdown: true
 children: 
