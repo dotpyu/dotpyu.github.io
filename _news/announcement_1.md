@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-04-08 15:59:00-0400
+date: 2023-02-27
 inline: true
 ---
 
-Website underconstruction 😊
+We released [Alfred](https://duckduckgo.com), a toolkit for integrating Large Pretrained Models into Weak Supervision
