@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cs.brown.edu/'>CS @ Brown University</a>. <a href='https://github.com/BatsResearch'>BATS Research Group</a>.
+subtitle: Apple Inc.
 
 profile:
   align: left
@@ -16,12 +16,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+My work at Apple centers on multimodal intelligence. I earned my Ph.D. in Computer Science from Brown University (2025), advised by <a href="http://stephenbach.net/">Prof. Stephen Bach</a>.
 
-I am a Ph.D. Candidate in Computer Science advised by <a href='http://stephenbach.net/'>Prof. Stephen Bach</a>. 
-
-My research focuses on overcoming the challenges of weak supervision in machine learning. This involves developing new methods to work effectively with limited or noisy data, aiming to reduce the need for intensive human input. I'm particularly excited about the potential of advanced models like GPTs, Llamas, and CLIP to improve weak supervision techniques, offering scalable solutions to real-world issues.
-
-Outside of academia, I'm a FAA Private Pilot, now working towards my instrument rating. I also have a FAA AGI (Advance Ground Instructor) license. And no, despite the acronym, I haven't acquired Artificial General Intelligence... yet!
+My research focuses on overcoming the challenges of weak supervision in machine learning. This involves developing new methods to work effectively with limited or noisy data, aiming to reduce the need for intensive human input. I'm particularly excited about the potential of advanced foundation models to improve weak supervision techniques, offering scalable solutions to real-world issues.
 
 I am a proud <a href='https://wisc.edu'>👐🏟🧀 Badger</a> and I got my BS in CS and Math there in 2019.
 
